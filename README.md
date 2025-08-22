@@ -1,4 +1,4 @@
-# ECE 653 Spring 2025 Project
+# Concolic Execution Engine Project
 
 This project includes multiple execution engines and related test infrastructure:
 
